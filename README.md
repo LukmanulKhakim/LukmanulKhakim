@@ -8,3 +8,6 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt="github project repository Lukmanul Khakim" style="margin-bottom: 5px;" />
 </a>
 </div>
+
+
+[![Lukman's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukmanulKhakim)](https://github.com/LukmanulKhakim/github-readme-stats)
