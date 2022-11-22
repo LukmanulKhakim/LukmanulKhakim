@@ -9,5 +9,6 @@
 </a>
 </div>
 
-
-[![Lukman's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukmanulKhakim)](https://github.com/LukmanulKhakim/github-readme-stats)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LukmanulKhakim&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true" alt="LukmanulKhakim Lukmanul Khakim github stat stats"></img>
+</div>
