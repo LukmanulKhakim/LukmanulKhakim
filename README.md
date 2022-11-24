@@ -1,5 +1,11 @@
 ![LukmanulKhakim](./banner.png)
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+am+Lukmanul+Khakim...;Nice+To+Meet+You!&center=true&size=30">
+  </a>
+</h1>
+
 <div align="center">
 <a href="https://www.linkedin.com/in/lukmanul-khakim-6733221b4/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt="linkedin Lukmanul Khakim" style="margin-bottom: 5px;" />
