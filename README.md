@@ -9,6 +9,11 @@
 </a>
 </div>
 
+### <div align="center">A Backend Engineer From Indonesia 👨‍💻</div>
+
+- 🎯 I'm studying backend engineer with golang which implements clean architecture, CI/CD
+- ❓ Let's discuss
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LukmanulKhakim&show_icons=true&theme=github_dark&hide_border=true?include_all_commits=true" alt="LukmanulKhakim Lukmanul Khakim github stat stats"></img>
 </div>
